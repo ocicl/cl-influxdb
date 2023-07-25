@@ -1,0 +1,10 @@
+* cl-influxdb
+
+Common Lisp interface to the Time Series Database InfluxDB
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/mmaul/cl-influxdb.git   |
+| commit  | a822fb2  |
+| systems | cl-influxdb |
+|---------+-------------------------------------------|
+
